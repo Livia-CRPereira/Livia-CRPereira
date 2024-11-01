@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a Livia
-us 
+![United States Flag] Hello! I'm Livia
 
 🎓 **Técnica em Informática** | 📊 **Cientista de Dados em formação** | 💻 **Desenvolvedora em Python & C++** 
 
