@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a Livia
-![United States Flag] Hello! I'm Livia
+![United States Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)(The entire text in English is on the end of the Readme)
 
 🎓 **Técnica em Informática** | 📊 **Cientista de Dados em formação** | 💻 **Desenvolvedora em Python & C++** 
 
@@ -57,4 +57,70 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 ---
 
 👀 Obrigada por visitar meu perfil! Se tiver alguma dúvida ou quiser colaborar em um projeto, sinta-se à vontade para entrar em contato!
+
+
+
+---
+---
+---
+![United States Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) Now, in English
+# 👋 Hello! I'm Livia
+
+🎓 **IT Technician** | 📊 **Data Scientist in Training** | 💻 **Python & C++ Developer** 
+
+---
+
+### 👩‍💻 About Me
+I graduated as an IT Technician from the Federal Institute of Minas Gerais, where I learned many of the skills I carry with me today. Currently, I am a Data Science student at the Federal University of Minas Gerais, focusing on **statistical data analysis** and **predictive modeling**. I work on data analysis projects related to cultural issues and have initial experience with handling data volumes and creating intuitive visualizations to explore patterns. I'm always looking for new techniques and tools to make data more accessible and impactful.
+
+---
+
+### 🛠️ Technical Skills
+- **Languages**: Python, R, C++, C
+- **Libraries and Frameworks**: pandas, NumPy, scikit-learn, matplotlib, seaborn
+- **Databases**: SQL
+- **Version Control Tools**: Git & GitHub
+- **Other Tools**: Jupyter Notebook, VS Code
+
+---
+
+### 📈 My Projects
+Here are some featured projects that reflect my learning and experience so far:
+
+- [**Accidents in BH**](https://github.com/Livia-CRPereira/analise-acidentes): Exploratory and predictive analysis of traffic incidents in Belo Horizonte using basic data science concepts.
+- [**SEAB Project**](https://github.com/Livia-CRPereira/SEAB): Website developed to store information on an innovation project focused on contributing to more effective Fire Department services.
+- [**Racing Game**](https://github.com/Livia-CRPereira/Candy-Rush): Optimized algorithm in Python for a game, focused on reducing execution time in time-constrained scenarios.
+
+---
+
+### 📚 Education
+- **Technical Course** in IT from IFMG - Sabará Campus (completed)
+- **Undergraduate** in Data Science from UFMG (in progress)
+
+---
+
+### 🌱 Currently Studying
+- Statistical theory
+- Algorithms and Data Structures in C++
+- Introduction to trees and graphs
+
+---
+
+### 📫 How to Reach Me
+- LinkedIn: [linkedin.com/in/lívia-caroline-93248a2a1/](https://www.linkedin.com/in/lívia-caroline-93248a2a1/)
+- Email: liviacaroline456@gmail.com
+
+---
+
+> "The magic of data science lies in turning data into discoveries."
+
+---
+
+### ⚡ Fun Fact
+🎶 I am passionate about music, movies, and sports and love exploring how data science can be used to understand these cultural trends! I believe that data science should go beyond STEM, contributing to the cultural and social aspects of our society to enable ever-greater progress.
+
+---
+
+👀 Thank you for visiting my profile! If you have any questions or want to collaborate on a project, feel free to reach out!
+
 
