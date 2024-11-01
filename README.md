@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a Livia
-![United States Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)(The entire text in English is on the end of the Readme)
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="10" />(The entire text in English is on the end of the Readme)
 
 🎓 **Técnica em Informática** | 📊 **Cientista de Dados em formação** | 💻 **Desenvolvedora em Python & C++** 
 
@@ -63,7 +63,8 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 ---
 ---
 ---
-![United States Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg) Now, in English
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="10" /> Now, in English<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="10" />
 # 👋 Hello! I'm Livia
 
 🎓 **IT Technician** | 📊 **Data Scientist in Training** | 💻 **Python & C++ Developer** 
