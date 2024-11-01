@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou a Livia
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="20" /> (The entire text in English is on the end of the Readme)
+🌎 (The entire text in English is on the end of the Readme)
 
 🎓 **Técnica em Informática** | 📊 **Cientista de Dados em formação** | 💻 **Desenvolvedora em Python & C++** 
 
@@ -52,7 +52,7 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 ---
 
 ### ⚡ Curiosidade
-🎶 Sou apaixonada por música, filmes e esportes e adoro explorar como a ciência de dados pode ser usada para entender essas tendências culturais! Entendo que a ciência de dados deve ser usada para além da área de exatas, contribuindo para fatores culturais e sociais da nossa sociedade, a fim de permitir um avanço cada vez maior. 
+📺 Sou apaixonada por música, filmes e esportes e adoro explorar como a ciência de dados pode ser usada para entender essas tendências culturais! Entendo que a ciência de dados deve ser usada para além da área de exatas, contribuindo para fatores culturais e sociais da nossa sociedade, a fim de permitir um avanço cada vez maior. 
 
 ---
 
@@ -64,7 +64,7 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 ---
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="25" /> Now, in English<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States Flag" width="25" />
+🌎🌎   Now, in English  🌎🌎 
 # 👋 Hello! I'm Livia
 
 🎓 **IT Technician** | 📊 **Data Scientist in Training** | 💻 **Python & C++ Developer** 
@@ -118,7 +118,7 @@ Here are some featured projects that reflect my learning and experience so far:
 ---
 
 ### ⚡ Fun Fact
-🎶 I am passionate about music, movies, and sports and love exploring how data science can be used to understand these cultural trends! I believe that data science should go beyond STEM, contributing to the cultural and social aspects of our society to enable ever-greater progress.
+📺 I am passionate about music, movies, and sports and love exploring how data science can be used to understand these cultural trends! I believe that data science should go beyond STEM, contributing to the cultural and social aspects of our society to enable ever-greater progress.
 
 ---
 
