@@ -11,7 +11,7 @@ Sou formada no curso técnino em informática pelo Instituto Federal de Minas Ge
 ---
 
 ### 🛠️ Habilidades Técnicas
-- **Linguagens**: Python, R, C++, C
+- **Linguagens**: Python, R, C++, C, HTML, JavaScrip, CSS
 - **Bibliotecas e Frameworks**: pandas, NumPy, scikit-learn, matplotlib, seaborn
 - **Banco de Dados**: SQL
 - **Ferramentas de Controle de Versão**: Git & GitHub
