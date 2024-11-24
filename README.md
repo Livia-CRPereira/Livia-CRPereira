@@ -22,7 +22,7 @@ Sou formada no curso técnino em informática pelo Instituto Federal de Minas Ge
 ### 📈 Meus Projetos
 Aqui estão alguns projetos destacados que refletem meu aprendizado e experiência até agora:
 
-- [**Análise Cinematográfica**]([https://github.com/Livia-CRPereira/AnaliseCinema-minicurso]): Minicurso desenvolvido por meio da análise exploratória e preditiva do Cinema no Brasil, com base de dados da Ancine e base de dados fictícia. 
+- [**Análise Cinematográfica**](https://github.com/Livia-CRPereira/AnaliseCinema-minicurso): Minicurso desenvolvido por meio da análise exploratória e preditiva do Cinema no Brasil, com base de dados da Ancine e base de dados fictícia. 
 - [**Acidentes de BH**](https://github.com/Livia-CRPereira/analise-acidentes): Análise exploratória e preditiva de incidentes automobilísticos de Belo Horizonte utilizando conceitos básicos de ciências de dados.
 - [**Projeto SEAB**](https://github.com/Livia-CRPereira/SEAB): Site desenvolvido para armazenar informações sobre projeto de inovação com foco em contribuir para um atendimento mais efetivo do Serviço de Bombeiros.
 - [**Jogo de Corrida**](https://github.com/Livia-CRPereira/Candy-Rush): Algoritmo otimizado em Python para um jogo, focado em reduzir o tempo de execução em cenários com limite de tempo.
