@@ -89,7 +89,7 @@ I graduated as an IT Technician from the Federal Institute of Minas Gerais, wher
 ### 📈 My Projects
 Here are some featured projects that reflect my learning and experience so far:
 
-- - [**Film Analysis**](https://github.com/Livia-CRPereira/AnaliseCinema-minicurso): A minicourse developed through exploratory and predictive analysis of Cinema in Brazil, using a dataset from Ancine and a fictional database.
+- [**Film Analysis**](https://github.com/Livia-CRPereira/AnaliseCinema-minicurso): A minicourse developed through exploratory and predictive analysis of Cinema in Brazil, using a dataset from Ancine and a fictional database.
 - [**Accidents in BH**](https://github.com/Livia-CRPereira/analise-acidentes): Exploratory and predictive analysis of traffic incidents in Belo Horizonte using basic data science concepts.
 - [**SEAB Project**](https://github.com/Livia-CRPereira/SEAB): Website developed to store information on an innovation project focused on contributing to more effective Fire Department services.
 - [**Racing Game**](https://github.com/Livia-CRPereira/Candy-Rush): Optimized algorithm in Python for a game, focused on reducing execution time in time-constrained scenarios.
