@@ -26,7 +26,7 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 - [**Acidentes de BH**](https://github.com/Livia-CRPereira/analise-acidentes): Análise exploratória e preditiva de incidentes automobilísticos de Belo Horizonte utilizando conceitos básicos de ciências de dados.
 - [**Projeto SEAB**](https://github.com/Livia-CRPereira/SEAB): Site desenvolvido para armazenar informações sobre projeto de inovação com foco em contribuir para um atendimento mais efetivo do Serviço de Bombeiros.
 - [**Jogo de Corrida**](https://github.com/Livia-CRPereira/Candy-Rush): Algoritmo otimizado em Python para um jogo, focado em reduzir o tempo de execução em cenários com limite de tempo.
-- [**Jogos de tabuleiro**](https://github.com/Livia-CRPereira/Candy-Rush): Código criado em equipe - em C++ - com a implemetação de 4 jogos de tabuleiro. 
+- [**Jogos de tabuleiro**](https://github.com/Livia-CRPereira/Jogos-Tabuleiro): Código criado em equipe - em C++ - com a implemetação de 4 jogos de tabuleiro. 
 
 ---
 
