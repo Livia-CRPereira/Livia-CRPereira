@@ -38,8 +38,8 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 
 ### 🌱 Atualmente estudando
 - Teoria estatística
-- Algoritmos e Estruturas de Dados em C++
-- Introdução à árvores e grafos
+- Algoritmos e Estruturas de Dados
+- Computação Social
 
 ---
 
@@ -107,8 +107,8 @@ Here are some featured projects that reflect my learning and experience so far:
 
 ### 🌱 Currently Studying
 - Statistical theory
-- Algorithms and Data Structures in C++
-- Introduction to trees and graphs
+- Algorithms and Data Structures
+- Social Computation
 
 ---
 
