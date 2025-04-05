@@ -49,7 +49,7 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 
 ---
 
-> "A magia da ciência de dados está em transformar dados em descobertas."
+> "O conhecimento começa com uma pergunta e com a curiosidade."
 
 ---
 
@@ -118,7 +118,7 @@ Here are some featured projects that reflect my learning and experience so far:
 
 ---
 
-> "The magic of data science lies in turning data into discoveries."
+> "Knowledge begins with a question and with curiosity."
 
 ---
 
