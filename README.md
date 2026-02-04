@@ -54,7 +54,7 @@ Aqui estão alguns projetos destacados que refletem meu aprendizado e experiênc
 ---
 
 ### ⚡ Curiosidade
-📺 Sou apaixonada por música, filmes e esportes e adoro explorar como a ciência de dados pode ser usada para entender essas tendências culturais! Entendo que a ciência de dados deve ser usada para além da área de exatas, contribuindo para fatores culturais e sociais da nossa sociedade, a fim de permitir um avanço cada vez maior. 
+📺 Sou apaixonada por filmes e esportes e adoro explorar como a ciência de dados pode ser usada para entender essas tendências culturais! Entendo que a ciência de dados deve ser usada para além da área de exatas, contribuindo para fatores culturais e sociais da nossa sociedade, a fim de permitir um avanço cada vez maior. 
 
 ---
 
@@ -123,7 +123,7 @@ Here are some featured projects that reflect my learning and experience so far:
 ---
 
 ### ⚡ Fun Fact
-📺 I am passionate about music, movies, and sports and love exploring how data science can be used to understand these cultural trends! I believe that data science should go beyond STEM, contributing to the cultural and social aspects of our society to enable ever-greater progress.
+📺 I am passionate about movies and sports and love exploring how data science can be used to understand these cultural trends! I believe that data science should go beyond STEM, contributing to the cultural and social aspects of our society to enable ever-greater progress.
 
 ---
 
